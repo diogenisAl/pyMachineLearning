@@ -10,23 +10,23 @@ Machine Learning with Python
 
 
 **Προετοιμασία**
-- [ ] Install numpy:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install numpy
-- [ ] Install pandas:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install pandas
-- [ ] Install opencv:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install opencv-python
-- [ ] Install matplotlib:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install matplotlib
-- [ ] Install tensorflow:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install tensorflow
-- [ ] Install seaborn:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install seaborn
-- [ ] Install keras:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install keras
-- [ ] Install scikit-learn:
-Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install -U scikit-learn
-- [ ] Download το dataset από το link που βρίσκεται στο opencourses (μέγεθος ~2.5GB)
+- [ ] Install numpy
+(π.χ. στο τερματικό: **pip install numpy**)
+- [ ] Install pandas
+(π.χ. στο τερματικό: **pip install pandas**)
+- [ ] Install opencv
+(π.χ. στο τερματικό: **pip install opencv-python**)
+- [ ] Install matplotlib
+(π.χ. στο τερματικό: **pip install matplotlib**)
+- [ ] Install tensorflow
+(π.χ. στο τερματικό: **pip install tensorflow**)
+- [ ] Install seaborn
+(π.χ. στο τερματικό: **pip install seaborn**)
+- [ ] Install keras
+(π.χ. στο τερματικό: **pip install keras**)
+- [ ] Install scikit-learn
+(π.χ. στο τερματικό: **pip install -U scikit-learn**)
+- [ ] Download το dataset από τον σύνδεσμο που βρίσκεται στο opencourses (μέγεθος ~2.5GB)
 
 
 
