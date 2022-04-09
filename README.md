@@ -7,7 +7,7 @@ Machine Learning with Python
 * ...
 * ...
 
----
+
 
 **Προετοιμασία**
 - [ ] Install numpy:
@@ -28,7 +28,7 @@ Machine Learning with Python
 Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install -U scikit-learn
 - [ ] Download το dataset από το link που βρίσκεται στο opencourses (μέγεθος ~2.5GB)
 
----
+
 
 ## ...1
 
