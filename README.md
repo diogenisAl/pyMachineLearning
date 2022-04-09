@@ -26,7 +26,7 @@ Machine Learning with Python
 Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install keras
 - [ ] Install scikit-learn:
 Στο τερματικό (ή στο αντίστοιχο περιβάλλον όπως έχουμε δείξει στις διαφάνειες): pip install -U scikit-learn
-- [ ] Download το dataset από το link που βρίσκεται στο opencourses (https://drive.google.com/file/d/1AphQtd7_2FQp1fF2oNxZk4V3w2uVzXNz/view?usp=sharing) Μέγεθος ~2.5GB
+- [ ] Download το dataset από το link που βρίσκεται στο opencourses (μέγεθος ~2.5GB)
 
 ---
 
