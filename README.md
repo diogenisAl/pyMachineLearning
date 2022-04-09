@@ -3,7 +3,7 @@
 # pyMachineLearning
 Machine Learning with Python
 
-**Πηγές:**
+**Πηγές**
 * ...
 * ...
 
