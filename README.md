@@ -3,9 +3,15 @@
 # pyMachineLearning
 Machine Learning with Python
 
-**Πηγές**
-* ...
-* ...
+**Σχετικοί σύνδεσμοι**
+* [NumPy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [OpenCV](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+* [Matplotlib](https://matplotlib.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Keras](https://keras.io/)
+* [Scikit-learn](https://scikit-learn.org/)
 
 
 
