@@ -36,16 +36,16 @@ Machine Learning with Python
 
 
 
-## 1α
+## A' μέρος (1/2)
 Εκτελέστε τον κώδικα που θα βρείτε στο [GUI.py](/HandwrittenDigitRecognition/GUI.py)
 
 
-## 1β
+## A' μέρος (2/2)
 Εκτελέστε τον κώδικα που θα βρείτε στο [Handwritten_digit_recogniser.py](/HandwrittenDigitRecognition/Handwritten_digit_recogniser.py)
 
 
 
-## 2α
+## Β' μέρος
 Εκτελέστε τον κώδικα που θα βρείτε στο [mask_recognition.py](/MaskDetection/mask_recognition.py )
 
 
