@@ -1,5 +1,3 @@
-## υπό κατασκευή
-
 # pyMachineLearning
 Machine Learning with Python
 
@@ -34,7 +32,7 @@ Machine Learning with Python
 (π.χ. στο τερματικό: **pip install -U scikit-learn**)
 - [ ] Download το dataset (μέγεθος ~2.5GB) από τον σύνδεσμο που θα βρείτε στο opencourses
 
-
+---
 
 ## A' μέρος (1/2)
 Εκτελέστε τον κώδικα που θα βρείτε στο [GUI.py](/HandwrittenDigitRecognition/GUI.py)
