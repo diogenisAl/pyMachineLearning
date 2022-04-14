@@ -49,6 +49,8 @@ Machine Learning with Python
 * [Keras](https://keras.io/)
 * [Scikit-learn](https://scikit-learn.org/)
 
+**Σηζήτηση**
+* [captcha "machine learning"](https://www.google.com/search?channel=fs&client=ubuntu&q=captcha+%22machine+learning%22)
 
 ---
 
