@@ -1,6 +1,8 @@
 # pyMachineLearning
 Machine Learning with Python
 
+<br>
+<br>
 
 **Προετοιμασία**
 - [ ] Install numpy
