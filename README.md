@@ -40,10 +40,11 @@ Machine Learning with Python
 ## Β' μέρος
 Εκτελέστε τον κώδικα που θα βρείτε στο [mask_recognition.py](/MaskDetection/mask_recognition.py )
 
----
 
 <br>
 <br>
+
+---
 
 **Σχετικοί σύνδεσμοι**
 * [NumPy](https://numpy.org/)
