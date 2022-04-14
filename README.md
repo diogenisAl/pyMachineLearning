@@ -25,6 +25,9 @@ Machine Learning with Python
 
 ---
 
+<br>
+<br>
+
 ## A' μέρος (1/2)
 Εκτελέστε τον κώδικα που θα βρείτε στο [GUI.py](/HandwrittenDigitRecognition/GUI.py)
 
@@ -38,6 +41,9 @@ Machine Learning with Python
 Εκτελέστε τον κώδικα που θα βρείτε στο [mask_recognition.py](/MaskDetection/mask_recognition.py )
 
 ---
+
+<br>
+<br>
 
 **Σχετικοί σύνδεσμοι**
 * [NumPy](https://numpy.org/)
